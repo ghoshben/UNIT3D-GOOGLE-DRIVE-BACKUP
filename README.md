@@ -24,7 +24,7 @@ $ pip3 install PyDrive
 $ git clone https://github.com/ghoshben/UNIT3D-GOOGLE-DRIVE-BACKUP.git
 $ cd /UNIT3D-GOOGLE-DRIVE-BACKUP
 ```
-
+Now edit the backup.py line 27 and put your database name there
 #### Create Google Authintication json
  - Go to [APIs Console](https://console.developers.google.com/iam-admin/projects) and make your own project.
  - Search for ‘Google Drive API’, select the entry, and click ‘Enable’.
